@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hey, I'm Bibek Sapkota
+# I'm Bibek Sapkota
 
 ### 💻 BIM Student | Aspiring Developer | Tech Enthusiast
 
