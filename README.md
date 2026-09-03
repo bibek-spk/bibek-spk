@@ -50,8 +50,8 @@ I'm a **Bachelor of Information Management (BIM)** student who enjoys learning a
 
 ## 🤝 Connect With Me
 
-* 💻 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* 📧 Email: YOUR_EMAIL
+* 💻 GitHub: [@bibek-spk](https://github.com/bibek-spk)
+* 📧 Email: bibeksapkota545@gmail.com
 
 ---
 
